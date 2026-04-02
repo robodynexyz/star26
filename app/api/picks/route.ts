@@ -31,3 +31,4 @@ export async function GET(req: Request) {
 }
 // fix(api): proper 400 on invalid JSON payload @ 2026-04-09T15:41:05
 // feat(api): per-anon pick retrieval @ 2026-04-30T16:00:14
+// fix(api): return 400 when anonId missing on GET @ 2026-04-02T19:18:26
