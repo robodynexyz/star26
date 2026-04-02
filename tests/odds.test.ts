@@ -111,3 +111,4 @@ describe("Brier score", () => {
   });
 });
 // test(odds): draws ignored in win-count update @ 2026-04-13T20:01:22
+// test(odds): variance approaches 0 with overwhelming data @ 2026-04-02T10:32:12
