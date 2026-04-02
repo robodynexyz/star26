@@ -104,3 +104,4 @@ function incr(
 // feat(lib): nodeProbabilities walks bracket with conditional probs @ 2026-04-14T18:38:03
 // feat(lib): variance computation for posterior odds @ 2026-04-17T19:50:44
 // feat(lib): Beta-Binomial odds engine @ 2026-04-30T13:46:50
+// fix(lib): odds — falls back to 0.5 when both teams at zero @ 2026-04-02T16:38:58
