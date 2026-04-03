@@ -97,3 +97,4 @@ function incr(
 // fix(lib): picks — guard SSR window access @ 2026-05-14T12:56:54
 // fix(lib): odds — sentinel for total<=0 in head-to-head @ 2026-04-20T20:22:34
 // refactor(lib): extract addProb helper in bracket @ 2026-04-11T10:33:52
+// feat(lib): Brier score + meanBrier aggregator @ 2026-04-03T17:26:16
