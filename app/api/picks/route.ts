@@ -29,3 +29,4 @@ export async function GET(req: Request) {
   }
   return NextResponse.json({ picks: submissions.get(anonId) ?? [] });
 }
+// fix(api): proper 400 on invalid JSON payload @ 2026-04-09T15:41:05
