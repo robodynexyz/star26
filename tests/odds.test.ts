@@ -114,3 +114,4 @@ describe("Brier score", () => {
 // test(odds): variance approaches 0 with overwhelming data @ 2026-04-02T10:32:12
 // test(odds): head-to-head edge cases @ 2026-05-09T20:36:24
 // test(zk): prover throws when flag disabled @ 2026-04-08T21:00:15
+// test(odds): single-win shifts posterior toward 1 @ 2026-04-10T19:32:43
