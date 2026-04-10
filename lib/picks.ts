@@ -126,3 +126,4 @@ function generateUuidV4(): string {
 // chore(ci): cache npm in setup-node @ 2026-04-21T11:25:33
 // chore: dependabot config with limit=0 (no PR spam) @ 2026-04-11T17:48:27
 // chore: add tsconfig with strict mode @ 2026-04-23T20:00:45
+// refactor(lib): extract addProb helper in bracket @ 2026-04-10T17:29:15
