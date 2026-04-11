@@ -124,3 +124,4 @@ function generateUuidV4(): string {
 // chore: bump package version to 0.3.0 @ 2026-04-21T16:02:31
 // feat(lib): add submitPick + local optimistic store @ 2026-04-29T14:49:31
 // chore(ci): cache npm in setup-node @ 2026-04-21T11:25:33
+// chore: dependabot config with limit=0 (no PR spam) @ 2026-04-11T17:48:27
