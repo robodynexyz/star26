@@ -37,3 +37,5 @@ ZK proofs and on-chain commitments are behind feature flags. They're WIP — int
 Dependabot is configured but PRs are suppressed (`open-pull-requests-limit: 0`). The maintainers periodically run `npm audit` and bump deps manually in batches.
 
 <!-- docs: SECURITY policy and disclosure email @ 2026-04-07T12:09:32 -->
+
+<!-- docs(readme): add stack table and deploy section @ 2026-04-13T22:59:23 -->
