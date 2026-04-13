@@ -110,3 +110,4 @@ describe("Brier score", () => {
     expect(meanBrier([])).toBe(0);
   });
 });
+// test(odds): draws ignored in win-count update @ 2026-04-13T20:01:22
