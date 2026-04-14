@@ -1,0 +1,18 @@
+# Dependabot config — file exists for security audit signal,
+# but open-pull-requests-limit: 0 prevents PR spam our small team can't review.
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 0
+    labels:
+      - "dependencies"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 0
+    labels:
+      - "ci"

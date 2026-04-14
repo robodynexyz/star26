@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --background: 9 9 11;
+  --foreground: 250 250 250;
+}
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}

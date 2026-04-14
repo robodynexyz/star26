@@ -1,0 +1,10 @@
+# Default — lead reviews everything
+* @robodynexyz
+
+# Core engine — requires odds/bracket specialist review
+/lib/odds.ts @robodynexyz
+/lib/bracket.ts @robodynexyz
+/tests/ @robodynexyz
+
+# CI
+/.github/ @robodynexyz
