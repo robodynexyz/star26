@@ -22,3 +22,4 @@ export default function RootLayout({
 }
 // feat(app): hero with motion fade-in @ 2026-05-07T15:42:56
 // feat(app): bracket component with placeholder seeds @ 2026-05-08T22:38:49
+// feat(app): hero with motion fade-in @ 2026-04-16T14:38:06
