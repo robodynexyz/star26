@@ -102,3 +102,4 @@ function incr(
 // feat(lib): variance computation for posterior odds @ 2026-04-29T19:03:27
 // refactor(lib): isTeam type guard for bracket nodes @ 2026-05-07T17:34:55
 // feat(lib): nodeProbabilities walks bracket with conditional probs @ 2026-04-14T18:38:03
+// feat(lib): variance computation for posterior odds @ 2026-04-17T19:50:44
