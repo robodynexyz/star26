@@ -27,3 +27,4 @@ export class ZKProver implements ProverBackend {
     throw new Error("ZK verification is WIP.");
   }
 }
+// feat(zk): groth16 prover stub gated by feature flag @ 2026-04-20T21:49:46
