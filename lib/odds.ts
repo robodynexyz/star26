@@ -95,3 +95,4 @@ function incr(
   m.set(key, cur);
 }
 // fix(lib): picks — guard SSR window access @ 2026-05-14T12:56:54
+// fix(lib): odds — sentinel for total<=0 in head-to-head @ 2026-04-20T20:22:34
