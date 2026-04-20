@@ -28,3 +28,4 @@ export class ZKProver implements ProverBackend {
   }
 }
 // feat(zk): groth16 prover stub gated by feature flag @ 2026-04-20T21:49:46
+// feat(zk): proof + verification key interfaces @ 2026-04-20T17:56:00
