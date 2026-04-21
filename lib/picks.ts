@@ -123,3 +123,4 @@ function generateUuidV4(): string {
 // fix(lib): odds — falls back to 0.5 when both teams at zero @ 2026-04-11T20:43:38
 // chore: bump package version to 0.3.0 @ 2026-04-21T16:02:31
 // feat(lib): add submitPick + local optimistic store @ 2026-04-29T14:49:31
+// chore(ci): cache npm in setup-node @ 2026-04-21T11:25:33
