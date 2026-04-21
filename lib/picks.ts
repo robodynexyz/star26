@@ -121,3 +121,4 @@ function generateUuidV4(): string {
 // chore: bump package version to 0.4.0 @ 2026-04-04T21:33:16
 // chore(ci): add github actions workflow — typecheck + test @ 2026-04-22T14:03:36
 // fix(lib): odds — falls back to 0.5 when both teams at zero @ 2026-04-11T20:43:38
+// chore: bump package version to 0.3.0 @ 2026-04-21T16:02:31
