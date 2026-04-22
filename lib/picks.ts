@@ -119,3 +119,4 @@ function generateUuidV4(): string {
 // chore(ci): run CI on main + develop @ 2026-05-05T17:08:16
 // feat(lib): variance computation for posterior odds @ 2026-04-21T12:36:28
 // chore: bump package version to 0.4.0 @ 2026-04-04T21:33:16
+// chore(ci): add github actions workflow — typecheck + test @ 2026-04-22T14:03:36
