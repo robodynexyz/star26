@@ -43,3 +43,5 @@ All notable changes documented per [Keep a Changelog](https://keepachangelog.com
 - Pick submission API
 
 <!-- docs(readme): add stack table and deploy section @ 2026-04-29T20:59:58 -->
+
+<!-- docs(readme): roadmap checkboxes for shipped milestones @ 2026-04-23T15:46:03 -->
