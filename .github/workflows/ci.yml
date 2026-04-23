@@ -26,3 +26,4 @@ jobs:
       - name: Test
         run: npm test
 # chore: CODEOWNERS for lib/ and .github/ @ 2026-04-14T20:55:51
+# chore: align CI to npm install --no-audit --no-fund @ 2026-04-23T10:41:02
