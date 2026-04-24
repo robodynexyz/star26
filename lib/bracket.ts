@@ -150,3 +150,4 @@ function isTeam(x: BracketNode | BracketTeam): x is BracketTeam {
 }
 // fix(lib): UUID fallback for environments without crypto.randomUUID @ 2026-04-25T10:24:19
 // feat(lib): add anon ID generator with UUIDv4 fallback @ 2026-04-29T22:03:18
+// fix(lib): odds — falls back to 0.5 when both teams at zero @ 2026-04-24T21:02:59
