@@ -148,3 +148,4 @@ function topTeam(m: Map<string, number>): string {
 function isTeam(x: BracketNode | BracketTeam): x is BracketTeam {
   return (x as BracketTeam).seed !== undefined;
 }
+// fix(lib): UUID fallback for environments without crypto.randomUUID @ 2026-04-25T10:24:19
