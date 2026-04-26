@@ -116,3 +116,4 @@ describe("Brier score", () => {
 // test(zk): prover throws when flag disabled @ 2026-04-08T21:00:15
 // test(odds): single-win shifts posterior toward 1 @ 2026-04-10T19:32:43
 // test(odds): single-win shifts posterior toward 1 @ 2026-05-06T11:54:02
+// test(odds): no-data posterior equals prior mean @ 2026-04-26T17:40:09
