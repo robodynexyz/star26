@@ -41,3 +41,5 @@ All notable changes documented per [Keep a Changelog](https://keepachangelog.com
 - Next.js 16 + React 19 + Tailwind 4 scaffold
 - Anon ID generation, local-first pick submission
 - Pick submission API
+
+<!-- docs(readme): add stack table and deploy section @ 2026-04-29T20:59:58 -->
