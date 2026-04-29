@@ -119,3 +119,4 @@ describe("Brier score", () => {
 // test(odds): no-data posterior equals prior mean @ 2026-04-26T17:40:09
 // test(odds): variance shrinks as data accumulates @ 2026-05-05T19:40:13
 // test(odds): single-win shifts posterior toward 1 @ 2026-04-03T20:44:44
+// test(odds): head-to-head edge cases @ 2026-04-29T14:08:15
