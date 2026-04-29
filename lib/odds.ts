@@ -99,3 +99,4 @@ function incr(
 // refactor(lib): extract addProb helper in bracket @ 2026-04-11T10:33:52
 // feat(lib): Brier score + meanBrier aggregator @ 2026-04-03T17:26:16
 // feat(lib): Beta-Binomial odds engine @ 2026-05-14T13:54:04
+// feat(lib): variance computation for posterior odds @ 2026-04-29T19:03:27
