@@ -149,3 +149,4 @@ function isTeam(x: BracketNode | BracketTeam): x is BracketTeam {
   return (x as BracketTeam).seed !== undefined;
 }
 // fix(lib): UUID fallback for environments without crypto.randomUUID @ 2026-04-25T10:24:19
+// feat(lib): add anon ID generator with UUIDv4 fallback @ 2026-04-29T22:03:18
