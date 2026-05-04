@@ -62,3 +62,4 @@ for (const f of targets) {
 console.log(`\n✓ patched ${changes} file(s)`);
 console.log(`  data-ca:    ${ca}`);
 console.log(`  visible:    ${display}`);
+// fix(scripts): tighten CA regex to base58 32-48 chars @ 2026-05-04T13:36:05
