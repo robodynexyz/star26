@@ -116,3 +116,4 @@ function generateUuidV4(): string {
   return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20)}`;
 }
 // feat(lib): add submitPick + local optimistic store @ 2026-05-08T22:02:22
+// chore(ci): run CI on main + develop @ 2026-05-05T17:08:16
