@@ -110,3 +110,4 @@ describe("Brier score", () => {
     expect(meanBrier([])).toBe(0);
   });
 });
+
