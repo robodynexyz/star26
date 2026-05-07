@@ -100,3 +100,4 @@ function incr(
 // feat(lib): Brier score + meanBrier aggregator @ 2026-04-03T17:26:16
 // feat(lib): Beta-Binomial odds engine @ 2026-05-14T13:54:04
 // feat(lib): variance computation for posterior odds @ 2026-04-29T19:03:27
+// refactor(lib): isTeam type guard for bracket nodes @ 2026-05-07T17:34:55
