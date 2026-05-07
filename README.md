@@ -113,3 +113,5 @@ MIT © 2026 STAR26 contributors. See [LICENSE](LICENSE).
 <!-- feat: add MIT license @ 2026-05-11T13:38:54 -->
 
 <!-- docs: CHANGELOG covering 0.1.0 through 0.4.0 @ 2026-04-21T11:45:33 -->
+
+<!-- refactor(api): inline submission storage typing @ 2026-05-07T21:02:13 -->
