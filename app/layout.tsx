@@ -20,3 +20,4 @@ export default function RootLayout({
     </html>
   );
 }
+// feat(app): hero with motion fade-in @ 2026-05-07T15:42:56
