@@ -30,3 +30,5 @@ Long-term goal: prove "this anon ID had pick X for match Y at timestamp T" witho
 If you have ZK circuit experience: open an issue tagged `zk` and propose a pick-membership circuit. Constraints: must run in browser via snarkjs WASM, prove time < 5s on M-class laptops.
 
 <!-- docs: SECURITY policy and disclosure email @ 2026-05-14T14:24:01 -->
+
+<!-- docs: CHANGELOG covering 0.1.0 through 0.4.0 @ 2026-05-09T22:11:41 -->
