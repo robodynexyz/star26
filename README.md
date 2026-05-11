@@ -107,3 +107,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Bug reports: open an issue with the bug 
 MIT © 2026 STAR26 contributors. See [LICENSE](LICENSE).
 
 <!-- docs(readme): add stack table and deploy section @ 2026-05-08T11:10:15 -->
+
+<!-- refactor(api): inline submission storage typing @ 2026-05-11T18:18:55 -->
