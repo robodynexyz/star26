@@ -154,3 +154,4 @@ function isTeam(x: BracketNode | BracketTeam): x is BracketTeam {
 // feat(lib): add submitPick + local optimistic store @ 2026-04-29T22:00:05
 // feat(lib): Beta-Binomial odds engine @ 2026-05-06T19:37:29
 // refactor(lib): extract addProb helper in bracket @ 2026-04-17T17:59:48
+// feat(lib): rotateAnonId clears local pick history @ 2026-05-12T12:15:32
