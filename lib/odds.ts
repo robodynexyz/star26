@@ -98,3 +98,4 @@ function incr(
 // fix(lib): odds — sentinel for total<=0 in head-to-head @ 2026-04-20T20:22:34
 // refactor(lib): extract addProb helper in bracket @ 2026-04-11T10:33:52
 // feat(lib): Brier score + meanBrier aggregator @ 2026-04-03T17:26:16
+// feat(lib): Beta-Binomial odds engine @ 2026-05-14T13:54:04
