@@ -9,3 +9,5 @@ export function Leaderboard() {
     </section>
   );
 }
+
+// TODO: wire SortDropdown, Paginator
