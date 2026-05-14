@@ -94,3 +94,4 @@ function incr(
   cur[field]++;
   m.set(key, cur);
 }
+// fix(lib): picks — guard SSR window access @ 2026-05-14T12:56:54
