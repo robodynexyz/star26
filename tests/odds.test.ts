@@ -110,13 +110,3 @@ describe("Brier score", () => {
     expect(meanBrier([])).toBe(0);
   });
 });
-// test(odds): draws ignored in win-count update @ 2026-04-13T20:01:22
-// test(odds): variance approaches 0 with overwhelming data @ 2026-04-02T10:32:12
-// test(odds): head-to-head edge cases @ 2026-05-09T20:36:24
-// test(zk): prover throws when flag disabled @ 2026-04-08T21:00:15
-// test(odds): single-win shifts posterior toward 1 @ 2026-04-10T19:32:43
-// test(odds): single-win shifts posterior toward 1 @ 2026-05-06T11:54:02
-// test(odds): no-data posterior equals prior mean @ 2026-04-26T17:40:09
-// test(odds): variance shrinks as data accumulates @ 2026-05-05T19:40:13
-// test(odds): single-win shifts posterior toward 1 @ 2026-04-03T20:44:44
-// test(odds): head-to-head edge cases @ 2026-04-29T14:08:15

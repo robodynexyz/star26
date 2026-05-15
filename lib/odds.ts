@@ -94,14 +94,3 @@ function incr(
   cur[field]++;
   m.set(key, cur);
 }
-// fix(lib): picks — guard SSR window access @ 2026-05-14T12:56:54
-// fix(lib): odds — sentinel for total<=0 in head-to-head @ 2026-04-20T20:22:34
-// refactor(lib): extract addProb helper in bracket @ 2026-04-11T10:33:52
-// feat(lib): Brier score + meanBrier aggregator @ 2026-04-03T17:26:16
-// feat(lib): Beta-Binomial odds engine @ 2026-05-14T13:54:04
-// feat(lib): variance computation for posterior odds @ 2026-04-29T19:03:27
-// refactor(lib): isTeam type guard for bracket nodes @ 2026-05-07T17:34:55
-// feat(lib): nodeProbabilities walks bracket with conditional probs @ 2026-04-14T18:38:03
-// feat(lib): variance computation for posterior odds @ 2026-04-17T19:50:44
-// feat(lib): Beta-Binomial odds engine @ 2026-04-30T13:46:50
-// fix(lib): odds — falls back to 0.5 when both teams at zero @ 2026-04-02T16:38:58

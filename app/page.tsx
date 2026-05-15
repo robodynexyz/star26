@@ -11,4 +11,3 @@ export default function Home() {
     </main>
   );
 }
-// feat(app): bootstrap app router layout @ 2026-05-09T11:49:03

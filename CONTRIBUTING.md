@@ -35,11 +35,3 @@ ZK proofs and on-chain commitments are behind feature flags. They're WIP — int
 ## Dependabot
 
 Dependabot is configured but PRs are suppressed (`open-pull-requests-limit: 0`). The maintainers periodically run `npm audit` and bump deps manually in batches.
-
-<!-- docs: SECURITY policy and disclosure email @ 2026-04-07T12:09:32 -->
-
-<!-- docs(readme): add stack table and deploy section @ 2026-04-13T22:59:23 -->
-
-<!-- docs: roadmap section flagging ZK as WIP @ 2026-05-01T18:32:38 -->
-
-<!-- docs: CONTRIBUTING with branch strategy @ 2026-04-25T22:04:14 -->
