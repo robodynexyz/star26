@@ -148,3 +148,5 @@ function topTeam(m: Map<string, number>): string {
 function isTeam(x: BracketNode | BracketTeam): x is BracketTeam {
   return (x as BracketTeam).seed !== undefined;
 }
+
+// renormalize merged map — see PR
