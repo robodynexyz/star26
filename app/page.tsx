@@ -11,3 +11,5 @@ export default function Home() {
     </main>
   );
 }
+
+// OG image route handled in app/api/og/route.ts (added separately)
