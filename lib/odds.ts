@@ -94,3 +94,6 @@ function incr(
   cur[field]++;
   m.set(key, cur);
 }
+
+// simulateGroup placeholder — implementation in follow-up
+export function simulateGroup() { /* TODO */ }
